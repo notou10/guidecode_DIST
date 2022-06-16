@@ -1,3 +1,13 @@
+#뼈대 코드로 쓰면 좋음
+- ckpt 잘 불러왔는지(missing key, unexpected key in ckpt) : lib/utils/misc/py
+- resnet 모델 빌드 : lib/models/builder.py
+
+
+
+
+<details>
+    <summary> 원본 readme </summary>
+    
 # Image Classification SOTA  
 
 `Image Classification SOTA` is an image classification toolbox based on PyTorch.
@@ -83,3 +93,4 @@ image_classification_sota
 
 ## Projects based on Image Classification SOTA  
 * [DyRep](https://github.com/hunto/DyRep): Bootstrapping Training with Dynamic Re-parameterization
+</details>
